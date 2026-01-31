@@ -1,4 +1,5 @@
 ckpt/
 ckpts/
 mamba/
+__pycache__/
 =1.4.0
