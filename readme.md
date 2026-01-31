@@ -2,7 +2,9 @@
   <h1>Training-Efficient Text-to-Music Generation with State-Space Modeling</h1>
   <br/>
  
-  [![arXiv](https://img.shields.io/badge/Read_the_paper-blue?style=flat&logoColor=blue&link=https%3A%2F%2Farxiv.org%2Fabs%2F)](https://arxiv.org/abs/2601.14786) [![Github](https://img.shields.io/badge/Github-Code-yellow?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fdeclare-lab%2Fjamify)](https://github.com/Lonian6/SSM-TTM) [![Static Badge](https://img.shields.io/badge/Project-Jamify-pink?style=flat&logo=homepage&link=https%3A%2F%2Fdeclare-lab.github.io%2Fjamify)](https://lonian6.github.io/ssmttm/) 
+  [![arXiv](https://img.shields.io/badge/Read_the_paper-blue?style=flat&logoColor=blue&link=https%3A%2F%2Farxiv.org%2Fabs%2F)](https://arxiv.org/abs/2601.14786) [![Github](https://img.shields.io/badge/Github-Code-yellow?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fdeclare-lab%2Fjamify)](https://github.com/Lonian6/SSM-TTM) 
+[![Static Badge](https://img.shields.io/badge/Project-SSM-TTM?style=flat&logo=homepage&logoColor=pink&link=https%3A%2F%2Flonian6.github.io%2Fssmttm%2F)](https://lonian6.github.io/ssmttm/) 
+
  
 </div>
 
